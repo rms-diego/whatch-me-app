@@ -1,15 +1,13 @@
 import { Button } from "./Button";
 
 interface SideBarProps  {
-  genres: Genres[];
+  genres: Array<{
+    title: string;
+    id: number;
+    name: 'action' | 'comedy' | 'documentary' | 'drama' | 'horror' | 'family';
+  }>;
   handleClickButton: Function;
   selectedGenreId: number;
-}
-
-interface Genres {
-  title: string;
-  id: number;
-  name: 'action' | 'comedy' | 'documentary' | 'drama' | 'horror' | 'family';
 }
 
 export function SideBar(props: SideBarProps ) {
