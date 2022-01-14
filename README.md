@@ -23,20 +23,11 @@
 </p>
 
 #
-
-<<<<<<< HEAD
 > Link das intruções de como desenvolver o projeto: [Notion](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1#2d280cefd8b54556a3585b2dcd0d8191).
 
 
 ## 🖖🏼 Objetivo
 O objetivo desse projeto é consolidar os aprendizados do capitulo 1 do ignite da trilha de ReactJs.
-=======
-> Link das intruções de como desenvolver o projeto: [Notion](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1#2d280cefd8b54556a3585b2dcd0d8191) !
-
-
-## 🖖🏼 Objetivo
-O objetivo desse projeto é consolidar os aprendizados do capitulo 1 da trilha do ignite.
->>>>>>> 7832035b2368cd0bea4688396c3c48e57e17a029
 
 ### Ajustes e melhorias
 
