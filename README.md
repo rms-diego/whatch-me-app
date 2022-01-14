@@ -24,11 +24,19 @@
 
 #
 
+<<<<<<< HEAD
 > Link das intruções de como desenvolver o projeto: [Notion](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1#2d280cefd8b54556a3585b2dcd0d8191).
 
 
 ## 🖖🏼 Objetivo
 O objetivo desse projeto é consolidar os aprendizados do capitulo 1 do ignite da trilha de ReactJs.
+=======
+> Link das intruções de como desenvolver o projeto: [Notion](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1#2d280cefd8b54556a3585b2dcd0d8191) !
+
+
+## 🖖🏼 Objetivo
+O objetivo desse projeto é consolidar os aprendizados do capitulo 1 da trilha do ignite.
+>>>>>>> 7832035b2368cd0bea4688396c3c48e57e17a029
 
 ### Ajustes e melhorias
 
@@ -45,8 +53,13 @@ Projeto concluido ✅:
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<<<<<<< HEAD
 * Ter instalado o nodeJs em versões recentes
 * Ter instalado o gerenciador de pacote: **yarn**
+=======
+* Ter instalado o nodeJs na versão em versões recentes
+* Ter instalado o gerenciador de pacotes: **yarn**
+>>>>>>> 7832035b2368cd0bea4688396c3c48e57e17a029
 * Certifique-se de ter seguido os passos abaixo para rodar o projeto, caso o contrario, vai dar erro.
 
 ## 🚀 Instalando Projeto
@@ -65,6 +78,11 @@ Para instalar o app, siga estas etapas:
 
 Depois execute os seguintes comando 
 
+<<<<<<< HEAD
+=======
+**Caso yarn:**
+
+>>>>>>> 7832035b2368cd0bea4688396c3c48e57e17a029
 ***Instalando as depencias***
 ```
   yarn
