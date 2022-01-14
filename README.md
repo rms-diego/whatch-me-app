@@ -53,13 +53,8 @@ Projeto concluido ✅:
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<<<<<<< HEAD
 * Ter instalado o nodeJs em versões recentes
 * Ter instalado o gerenciador de pacote: **yarn**
-=======
-* Ter instalado o nodeJs na versão em versões recentes
-* Ter instalado o gerenciador de pacotes: **yarn**
->>>>>>> 7832035b2368cd0bea4688396c3c48e57e17a029
 * Certifique-se de ter seguido os passos abaixo para rodar o projeto, caso o contrario, vai dar erro.
 
 ## 🚀 Instalando Projeto
