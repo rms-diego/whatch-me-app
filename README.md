@@ -64,11 +64,8 @@ Para instalar o app, siga estas etapas:
 
 Depois execute os seguintes comando 
 
-<<<<<<< HEAD
-=======
 **Caso yarn:**
 
->>>>>>> 7832035b2368cd0bea4688396c3c48e57e17a029
 ***Instalando as depencias***
 ```
   yarn
