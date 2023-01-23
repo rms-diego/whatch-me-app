@@ -1,4 +1,4 @@
-# Desafio 02 - Componentizando a aplicação Ignite ReactJs (Rocketseat) 📚
+#  [Ignite] [Rocketseat] Desafio 02 - whatch me  📚
 
 <h1>
   Tecnologias 👨‍💻
@@ -28,18 +28,6 @@
 
 ## 🖖🏼 Objetivo
 O objetivo desse projeto é consolidar os aprendizados do capitulo 1 do ignite da trilha de ReactJs.
-
-### Ajustes e melhorias
-
-Projeto concluido ✅:
-
-- [x] Componentizar a sidebar e tipar suas props
-
-- [x] Componentizar o content e tipar suas props
-
-- [x] Componentizar o header e tipar suas props
-
-
 
 ## 💻 Pré-requisitos
 
